@@ -1,0 +1,5 @@
+grep -o "[a-zA-Z0-9]" key.txt|tr -d '\n'
+
+
+KEY:
+PKey2030115bd38485e8b352f60f2b90f8a932ad0e95
